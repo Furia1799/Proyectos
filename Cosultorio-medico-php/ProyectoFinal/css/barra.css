@@ -1,0 +1,29 @@
+
+/*logo chico*/
+#logo{
+  width: 40px;
+  height: 40px;
+}
+
+/*barra de navegacion */
+.navbar-default {
+    background-color: #7ba4c7;
+    border-color: #cbcbd2;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+/*active*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #000;
+    background-color: #cbcbd2;
+}
+/*barrita debajo de titulo*/
+.page-header {
+    border-bottom: 2px solid #7ba4c7 ;
+}
+/*tamaño de titulo*/
+#sub{
+     font-size: 50px;
+}

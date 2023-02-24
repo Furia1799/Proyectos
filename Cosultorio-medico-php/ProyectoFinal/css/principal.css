@@ -1,0 +1,52 @@
+body{
+    background: #d5f7fe;
+}
+h2{
+font-weight: bolder;
+margin: 5px;
+}
+
+p{
+  font-size: 20px;
+}
+
+#logo{
+  width: 40px;
+  height: 40px;
+}
+#fila_1{
+  margin: 5px 10px;
+  padding: 5px 10px;
+}
+
+#row1{
+    margin-bottom: 50px;
+}
+
+/*Barra d e titulo*/
+h1{
+    color: #000;
+}
+.page-header {
+    border-bottom: 2px solid #7ba4c7;
+}
+
+/*barra de navegacion */
+.navbar-default {
+    background-color: #7ba4c7;
+    border-color: #cbcbd2;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+/*active*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #000;
+    background-color: #cbcbd2;
+}
+
+/*imagen 1*/
+#img1{
+     margin-left: 30px;
+}

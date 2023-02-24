@@ -1,0 +1,18 @@
+body {
+
+}
+
+#titulo{
+    text-align: center;
+    color: white;
+}
+#cuerpo{
+    background-color: #e6fff9;
+}
+#formulario{
+    text-align: center;
+}
+.jumbotron{
+    background-color: blue;
+
+}
